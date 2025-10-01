@@ -10,7 +10,7 @@
             <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ihyeeun&utm_content=line">
               <img
                 src="https://render.gitanimals.org/lines/ihyeeun?pet-id=747420578198293754"
-                width="400"
+                width="300"
               />
             </a>
           </td>
@@ -20,7 +20,7 @@
             <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ihyeeun&utm_content=farm">
               <img
                 src="https://render.gitanimals.org/farms/ihyeeun"
-                width="400"
+                width="300"
               />
             </a>
           </td>
